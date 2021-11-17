@@ -1,0 +1,8 @@
+ .checkout{
+     display: flex;
+ }
+ 
+ .checkout__title{
+     padding: 10px;
+
+ }
